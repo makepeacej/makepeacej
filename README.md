@@ -9,9 +9,6 @@ Hello, my name is Jonathon Makepeace and I'm a recent graduate to Western Goveno
   in Science. 
   
 I'm currently looking for developer positions that use Java or C# mainly, because they are my most proficient programming languages. I know a great deal of SQL
-  and have used Microsoft Azure database for personal projects. 
-  
-Most of my experience is related to desktop applications using Java and JavaFX, while occasionally connecting to a database for storage. I plan to 
-  create a web application using .Net framework and C# soon. 
+  and have used Microsoft Azure database for personal projects. I'm willing to learn new technologies and methodologies to progress my career in software development.  
 
 Email: jonathonmakepeace@gmail.com
